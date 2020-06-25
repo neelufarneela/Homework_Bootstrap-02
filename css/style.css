@@ -1,0 +1,30 @@
+.bg-custom{
+	min-height: 160px;
+	background-color: #0c63c233;
+}
+.box{
+	min-height: 50px;
+	background-color: #0079ff6e;
+	border: 1px solid #676b70b0;
+}
+p{
+	font-weight: 700;
+	text-align: center;
+}
+
+/*PROBLEM*/
+.image-custom img{
+	width: 100%;
+}
+/*PROBLEM*/
+
+.box2{
+	min-height: 95px;
+	min-width: 95px;
+	display: inline-block;
+	background-color: #0c63c233;
+}
+.box3{
+	min-height: 95px;
+	min-width: 190px;
+}
